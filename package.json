@@ -1,0 +1,24 @@
+{
+  "name": "smart-logistics",
+  "version": "1.0.0",
+  "description": "testing task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RinatValiullov/smart-logistics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RinatValiullov/smart-logistics/issues"
+  },
+  "homepage": "https://github.com/RinatValiullov/smart-logistics#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1"
+  }
+}
